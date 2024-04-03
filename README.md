@@ -2,10 +2,14 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou a Thamires</h1>
-<p align = "justify">Desenvolvedora Full Stack com foco especializado em Front-End, apaixonada por café e entusiasta de Design Systems e Single Page Applications. Tenho uma grande paixão por trabalhar com Bootstrap e estou atualmente aprimorando minhas habilidades no ambiente .NET.</p>
+<p align = "justify">Desenvolvedora Full Stack com foco especializado em Front-End, apaixonada por café e entusiasta de Design Systems e Single Page Applications. Tenho uma grande paixão por trabalhar com Bootstrap e estou atualmente aprimorando minhas habilidades no ambiente React JS e React Native</p>
 
-Atualmente, estou empregado na Fundação Getúlio Vargas (FGV).
-Estou dedicando meu tempo ao aprendizado de C# e .Net.
+<p>
+Atualmente, estou empregado na <span style="vertical-align: middle;">RD Saúde!</span>
+<img src="https://cdn.rd.com.br/prod-v2/2024/03/5e4b1d46-af_rd_saude_logo_tagline_fundo_branco_rgb.png" alt="RD" width="200" height="140" style="vertical-align: middle;">
+</p>
+
+Estou dedicando meu tempo ao aprendizado a React JS, React Native e banco de dados.
 
 ## Contato
 
