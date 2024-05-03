@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=thamirescandidabarbosa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {RD SAÚDE}<br/> Eu sou desenvolvedor {Full-stack}</p>
-### Olá, meu nome é {Thamires Barbosa}!
 
 
 
