@@ -13,10 +13,7 @@ Estou dedicando meu tempo ao aprendizado a React JS, React Native e banco de dad
 
 ## Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-thamiresbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamiresbarbosa/)](https://www.linkedin.com/in/thamiresbarbosa/)
-[![Instagram Badge](https://img.shields.io/badge/-euthamibarbosa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/euthamibarbosa/?hl=pt-br)](https://instagram.com/euthamibarbosa)
-[![Gmail Badge](https://img.shields.io/badge/-thamirescandidabarbosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thamirescandidabarbosa@gmail.com)](mailto:thamirescandidabarbosa@gmail.com)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀💻 Technologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -59,5 +56,4 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
 
-![GitHub Stats][Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true) 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
