@@ -55,6 +55,4 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
 - Programa Desenvolve | Cursando - 2023
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
-)
+(https://github-readme-stats.vercel.app/api?thamirescandidabarbosa=mustafacagri&show_icons=true&theme=radical)
