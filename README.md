@@ -59,4 +59,5 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THAMIRESCANDIDABARBOSA&theme=transparent&bg_color=000&border_color=9932CC&show_icons=true&icon_color=FFF000&title_color=00A8FF&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=THAMIRESCANDIDABARBOSA&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats][Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
