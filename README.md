@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=thamirescandidabarbosa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {RD SAÚDE}<br/> Eu sou desenvolvedor {Full-stack}</p>
-
+<br>
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou a Thamires</h1>
