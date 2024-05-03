@@ -55,4 +55,4 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
 - Programa Desenvolve | Cursando - 2023
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
-(https://github-readme-stats.vercel.app/api?thamirescandidabarbosa=mustafacagri&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamirescandidabarbosa&theme=dark&background=000000)](https://git.io/streak-stats)
