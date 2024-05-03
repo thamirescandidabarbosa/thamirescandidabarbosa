@@ -13,7 +13,8 @@ Estou dedicando meu tempo ao aprendizado a React JS, React Native e banco de dad
 
 ## Contato
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+Entre em contato comigo pelo [thamirescandidabarbosa@gmail.com](thamirescandidabarbosa@gmail.com).
+
 ## 🚀💻 Technologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -56,3 +57,4 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamirescandidabarbosa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirescandidabarbosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
