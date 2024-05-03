@@ -1,13 +1,18 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=thamirescandidabarbosa" alt="thamirescandidabarbosa" /></p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=thamirescandidabarbosa&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é {seu nome}!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=thamirescandidabarbosa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na {RD SAÚDE}<br/> Eu sou desenvolvedor {Full-stack}</p>
+### Olá, meu nome é {Thamires Barbosa}!
+
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou a Thamires</h1>
 <p align = "justify">Desenvolvedora Full Stack com foco especializado em Front-End, apaixonada por café e entusiasta de Design Systems e Single Page Applications. Tenho uma grande paixão por trabalhar com Bootstrap e estou atualmente aprimorando minhas habilidades no ambiente React JS e React Native</p>
 
-<p>
-Atualmente, estou empregado na <span style="vertical-align: middle;">RD Saúde!</span>
-<img src="https://cdn.rd.com.br/prod-v2/2024/03/5e4b1d46-af_rd_saude_logo_tagline_fundo_branco_rgb.png" alt="RD" width="200" height="140" style="vertical-align: middle;">
-</p>
+
 
 Estou dedicando meu tempo ao aprendizado a React JS, React Native e banco de dados.
 
@@ -55,6 +60,8 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
   UX Research, Design Thinking, Metodologia Ágil e Criatividade
 - Programa Desenvolve | Cursando - 2023
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamirescandidabarbosa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirescandidabarbosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
