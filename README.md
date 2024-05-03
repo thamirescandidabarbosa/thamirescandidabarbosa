@@ -56,4 +56,5 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+)
