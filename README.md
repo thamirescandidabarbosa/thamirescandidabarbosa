@@ -56,7 +56,7 @@ Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi u
   Tecnologia, processos, gestão de pessoas, entre outros pilares importantes para exercer uma boa liderança.
 - Digital Innovation One - Inova Tec | Concluído - 2022
   UX Research, Design Thinking, Metodologia Ágil e Criatividade
-- Programa Desenvolve | Cursando - 2023
+- Programa Desenvolve | Concluído - 2023
   UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
 
 
