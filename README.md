@@ -1,64 +1,65 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Olá,%20sou%20a%20Thamires&fontAlignY=37&desc=Seja%20bem-vindo&descAlign=50&descSize=40&animation=blinking">
 
 
- <img src="https://img.shields.io/static/v1?label=Overview&message=thamirescandidabarbosa&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<div align="center">
 
-<p>Trabalhando na {RD SAÚDE}<br/> Eu sou desenvolvedor {Full-stack}</p>
-<br>
+## 
+👩🏽‍💻 Profissional de TI com sólida experiência em SAP e desenvolvimento de soluções web e mobile.<br>
+🎓 Pós-graduada em Engenharia de Software.<br>
+📚 Formada em Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br>
+💡 Participante do programa **Quero Ser Dev** com 100% de participação em módulos como React Native, JS DOM, Banco de Dados (Postgres) e mais.<br>
+🏆 Reconhecida por projetos de impacto social e tecnológico.<br>
+🌍 Apaixonada por transformar desafios em experiências digitais acessíveis e inovadoras.
 
+</div>
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou a Thamires</h1>
-<p align = "justify">Desenvolvedora Full Stack com foco especializado em Front-End, apaixonada por café e entusiasta de Design Systems e Single Page Applications. Tenho uma grande paixão por trabalhar com Bootstrap e estou atualmente aprimorando minhas habilidades no ambiente React JS e React Native</p>
+<div align="center">
+  <a href="https://github.com/thamirescandidabarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamirescandidabarbosa&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamirescandidabarbosa&theme=react&hide_border=false&layout=compact"/>
+</div>
 
+<div style="display: inline_block" align="center"><br>
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img alt="UX/UI" src="https://img.shields.io/badge/UX%2FUI-FE7A16?style=for-the-badge&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-
-Estou dedicando meu tempo ao aprendizado a React JS, React Native e banco de dados.
-
-## Contato
-
-Entre em contato comigo pelo [thamirescandidabarbosa@gmail.com](thamirescandidabarbosa@gmail.com).
-
-## 🚀💻 Technologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-
-## Descrição
-Sou uma profissional dedicada com experiência em diversas áreas cruciais para o desenvolvimento de produtos de alta qualidade. Minha atuação abrange o levantamento de requisitos, a análise de negócios, o teste de qualidade e o processo de Sprint. Além disso, sou hábil em prototipação, o que me permite criar representações visuais eficazes de soluções.
-Minha dedicação e paixão pelo meu trabalho foram reconhecidas quando recebi um prêmio por minha contribuição significativa em um projeto de inovação de impacto social no Inova Tec. Este reconhecimento reforça meu compromisso em buscar soluções inovadoras que tenham um impacto positivo na sociedade. Estou constantemente em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para o sucesso de projetos.
-
-## PRÊMIOS
-
-### Prêmio: Hackathon - Recode Pro
-- Destaque em soluções tecnológicas para o fortalecimento da rede de apoio e empoderamento feminino.
-
-### Prêmio: Digital Innovation One - InovaTec
-- Premia e reconhece projeto com impacto social e reconhece soluções inovadoras e fortalece a inclusão de pessoas pretas no mercado de tecnologia.
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{seu-usuario}/count.svg" /></p> 
+  <br>
+</div>
 
 
-## Cursos e Certificações 
-
-- Hiring Coders 3 - Conclúido - 2022
-  Javascript, Typescript, React, GraphQL, Node.JS, GATSBY.JS e NEXT.JS. Promovido pela Gama Academy em parceria com a VTEX,
-- UX Unicórnio - Concluíd - 2021
-  UX/UI Designer, Design Thinking
-- Sprint Tech Leads - Concluído - 2022
-  Tecnologia, processos, gestão de pessoas, entre outros pilares importantes para exercer uma boa liderança.
-- Digital Innovation One - Inova Tec | Concluído - 2022
-  UX Research, Design Thinking, Metodologia Ágil e Criatividade
-- Programa Desenvolve | Concluído - 2023
-  UX Research, Design Thinking, Design System, Service Designer, Strategy Designer. UX Writer e UI Designer
+<div align="center"> 
+  <a href="https://instagram.com/euthamibarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thamirescandidabarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thamiresbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thamirescandidabarbosa/thamirescandidabarbosa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thamirescandidabarbosa/thamirescandidabarbosa/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thamirescandidabarbosa/thamirescandidabarbosa/output/github-contribution-grid-snake.svg">
+</picture>
 
-=
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+
+
+
+
+
